@@ -1,0 +1,9 @@
+*~
+#*#
+*.env
+bin
+**/.idea
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+.DS_Store
