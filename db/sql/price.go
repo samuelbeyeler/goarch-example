@@ -1,3 +1,5 @@
+// Package sql contains all of the repository implementations for the SQL data store.
+// NOTE: if you wanted to move data stores, you would simply implement the interface in a new package (eg `mongo/product.go`)
 package sql
 
 import (

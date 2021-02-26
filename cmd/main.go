@@ -1,3 +1,4 @@
+// Package main will compile all of the various services/handlers and throw a compile-time error if there are cyclical dependencies.
 package main
 
 import (

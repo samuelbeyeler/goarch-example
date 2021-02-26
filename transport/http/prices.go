@@ -1,3 +1,4 @@
+// Package http is the handler package, and does all http transport routing/parsing for both requests and responses.
 package http
 
 import (

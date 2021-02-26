@@ -1,3 +1,4 @@
+// Package prices is a 'complex' service, in that it depends on the `product` package in order to properly service price information.
 package prices
 
 import "github.com/samuelbeyeler/goarch-example/domain/product"
